@@ -1,0 +1,254 @@
+resources:
+  - title: Productside Home
+    url: https://productside.com/
+    category: company
+    subcategory: overview
+    audience:
+      - visitors
+      - product_managers
+      - teams
+    notes: Main public front door for Productside.
+
+  - title: About Productside
+    url: https://productside.com/about/
+    category: company
+    subcategory: about
+    audience:
+      - visitors
+      - prospects
+    notes: Brand, mission, and company positioning. Formerly 280 Group, founded 1998.
+
+  - title: Contact
+    url: https://productside.com/contact/
+    category: company
+    subcategory: contact
+    audience:
+      - visitors
+      - prospects
+    notes: Get in touch with the Productside team.
+
+  - title: Productside Blueprint
+    url: https://productside.com/blueprint-for-product-management-process/
+    category: frameworks
+    subcategory: blueprint
+    audience:
+      - product_managers
+      - leaders
+      - teams
+    notes: Productside's flexible, outcome-driven product lifecycle framework linking strategy, execution, and metrics.
+
+  - title: Productside Playbook
+    url: https://productside.com/playbooks/
+    category: frameworks
+    subcategory: playbook
+    audience:
+      - product_managers
+      - facilitators
+      - teams
+    notes: 23 ready-to-use templates spanning the entire product lifecycle — execution companion to the Blueprint.
+
+  - title: Product Management Courses Hub
+    url: https://productside.com/product-management-courses/
+    category: training
+    subcategory: courses
+    audience:
+      - product_managers
+    notes: Overview of all available PM training programs.
+
+  - title: Optimal Product Management Training
+    url: https://productside.com/optimal-product-management-training-course/
+    category: training
+    subcategory: courses
+    audience:
+      - product_managers
+    notes: Core PM training from discovery through launch. Includes 23 Playbook templates and AIPMM certification exam.
+
+  - title: AI Product Management Training
+    url: https://productside.com/ai-product-management-training-course/
+    category: training
+    subcategory: courses
+    audience:
+      - product_managers
+      - ai_builders
+    notes: Building AI-driven products with business impact; also covers AI tools for PM workflows.
+
+  - title: Digital Product Management Training
+    url: https://productside.com/digital-product-management-training-course/
+    category: training
+    subcategory: courses
+    audience:
+      - product_managers
+    notes: Design thinking, rapid experimentation, and data-driven strategies for digital transformation.
+
+  - title: Agile Product Management Training
+    url: https://productside.com/agile-product-management-training-course/
+    category: training
+    subcategory: courses
+    audience:
+      - product_managers
+    notes: Adaptive roadmaps, agile leadership, and fast-paced team practices.
+
+  - title: AIPMM Product Management Certification
+    url: https://productside.com/aipmm-certification/
+    category: training
+    subcategory: certification
+    audience:
+      - product_managers
+    notes: Industry-recognized Certified Product Manager® designation via AIPMM.
+
+  - title: Corporate Training Overview
+    url: https://productside.com/corporate-training/
+    category: services
+    subcategory: corporate_training
+    audience:
+      - team_leads
+      - executives
+    notes: Hub for team and organizational training options.
+
+  - title: Team Custom Training
+    url: https://productside.com/team-custom-training/
+    category: services
+    subcategory: corporate_training
+    audience:
+      - team_leads
+      - executives
+    notes: Private training tailored to the team's products, stack, and organizational goals.
+
+  - title: Executive Leadership Workshop
+    url: https://productside.com/executive-leadership-workshop/
+    category: services
+    subcategory: workshops
+    audience:
+      - executives
+      - product_leaders
+    notes: Leadership-focused workshop for product leaders and senior executives.
+
+  - title: Stakeholders Workshop
+    url: https://productside.com/stakeholders-workshop/
+    category: services
+    subcategory: workshops
+    audience:
+      - teams
+      - product_leaders
+    notes: Cross-functional collaboration and stakeholder alignment workshop.
+
+  - title: Consulting Overview
+    url: https://productside.com/consulting/
+    category: services
+    subcategory: consulting
+    audience:
+      - product_leaders
+      - executives
+    notes: Hub for Productside's consulting and advisory offerings.
+
+  - title: Product Management Maturity Diagnostic
+    url: https://productside.com/diagnostic/
+    category: services
+    subcategory: consulting
+    audience:
+      - product_leaders
+      - executives
+    notes: Baseline your organization's product management maturity and identify improvement areas.
+
+  - title: Team Assessments
+    url: https://productside.com/team-assessments/
+    category: services
+    subcategory: assessments
+    audience:
+      - managers
+      - executives
+    notes: Identify skill gaps and growth areas across a PM team.
+
+  - title: Individual Skills Assessment
+    url: https://productside.com/individual-skills-assessment/
+    category: services
+    subcategory: assessments
+    audience:
+      - individual_contributors
+      - managers
+    notes: Pinpoint where individual PMs can develop fastest.
+
+  - title: Advisory Services
+    url: https://productside.com/advisory/
+    category: services
+    subcategory: advisory
+    audience:
+      - product_leaders
+      - executives
+    notes: Hands-on advisory support for product leaders and executives.
+
+  - title: Tools and Templates
+    url: https://productside.com/tools-and-templates/
+    category: resources
+    subcategory: templates
+    audience:
+      - product_managers
+      - teams
+    notes: >
+      Free library of reports, templates, and workbooks including the PM Skills Benchmark,
+      Feature Prioritization Matrix, MRD, RACI/DACI, Persona Pack, GTM Pack, and more.
+
+  - title: Success Stories
+    url: https://productside.com/success-stories/
+    category: resources
+    subcategory: case_studies
+    audience:
+      - prospects
+      - leaders
+    notes: Customer outcomes including Simpson Strong-Tie (10x PM output), IATA, and Charles River Laboratories.
+
+  - title: Webinars
+    url: https://productside.com/pm-webinars/
+    category: resources
+    subcategory: webinars
+    audience:
+      - product_managers
+      - teams
+    notes: Live and on-demand webinar sessions with product experts.
+
+  - title: Podcast
+    url: https://productside.com/product-management-podcast/
+    category: resources
+    subcategory: podcast
+    audience:
+      - product_managers
+      - teams
+    notes: Conversations with PMs and product leaders from leading companies.
+
+  - title: Blog
+    url: https://productside.com/product-management-blogs/
+    category: resources
+    subcategory: blog
+    audience:
+      - product_managers
+      - teams
+    notes: Practical perspectives on product management strategy and practice.
+
+  - title: Product Management Knowledge Hub
+    url: https://productside.com/product-management-knowledge-hub/
+    category: resources
+    subcategory: knowledge_hub
+    audience:
+      - product_managers
+      - learners
+    notes: >
+      Deep-dive articles covering core PM concepts, roles, frameworks, roadmaps,
+      go-to-market strategy, agile, digital, and AI product management — plus a PM glossary.
+
+  - title: Productside Resources Hub
+    url: https://productside.com/productside-resources/
+    category: resources
+    subcategory: hub
+    audience:
+      - product_managers
+      - learners
+    notes: Productside's main public resources hub on the website.
+
+  - title: FAQ
+    url: https://productside.com/faq/
+    category: company
+    subcategory: support
+    audience:
+      - visitors
+      - prospects
+    notes: Frequently asked questions about Productside training and services.
