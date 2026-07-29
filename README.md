@@ -140,7 +140,6 @@ The structured resource catalog lives in [`resources/catalog.yaml`](resources/ca
 
 - [ ] Deep links to individual tools and templates as they get stable URLs
 - [ ] GitHub Pages landing page for a richer visual experience
-- [ ] Scrapling-powered crawler to automate catalog updates when the site changes
 - [ ] Resource tagging by role: individual contributor, team lead, executive
 
 ---
