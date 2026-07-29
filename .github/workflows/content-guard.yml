@@ -99,6 +99,8 @@ jobs:
             case "$term" in \#*) continue ;; esac
             while IFS= read -r f; do
               [ -f "$f" ] || continue
+              # Never scan the blocklist itself, or samples of it
+              case "$f" in *blocked-terms*) continue ;; esac
               if grep -qiF -- "$term" "$f"; then
                 # Do not echo the term itself into public build logs
                 echo "::error::$f contains a blocked term."
@@ -122,7 +124,7 @@ jobs:
           FAIL=0
           while IFS= read -r f; do
             [ -f "$f" ] || continue
-            case "$f" in *.env.example|*.sample|*content-guard*) continue ;; esac
+            case "$f" in *.env.example|*.sample|*content-guard*|*blocked-terms*) continue ;; esac
             if grep -qElr "$PATTERN" "$f" 2>/dev/null; then
               echo "::error::$f appears to contain a credential."
               FAIL=1
