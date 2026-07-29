@@ -132,6 +132,8 @@ Companies that have transformed product management with Productside:
 
 This repository is a curated index of Productside's public learning resources, tools, and starting points — a GitHub-native front door to the full Productside catalog.
 
+Productside is a product management training and advisory firm, not a software company. The materials here are digital takeaways and examples that demonstrate and extend Productside's teaching and advisory services: classes, workshops, webinars, consulting, advisory engagements, and lead generation. They are provided as is, as instructional material, and not as a software product or service.
+
 The structured resource catalog lives in [`resources/catalog.yaml`](resources/catalog.yaml). It is intentionally maintained by hand, not auto-generated. If a resource changes on the main site, this repo is updated to match.
 
 ### Roadmap
@@ -147,7 +149,9 @@ The structured resource catalog lives in [`resources/catalog.yaml`](resources/ca
 
 [productside.com](https://productside.com/) &nbsp;|&nbsp; [Contact Us](https://productside.com/contact/) &nbsp;|&nbsp; [FAQ](https://productside.com/faq/) &nbsp;|&nbsp; [Careers](https://productside.com/careers/)
 
-Content in this repository is licensed under [CC BY-NC-ND 4.0](LICENSE).<br>
-Productside names, logos, and brand features are not licensed for general reuse — see [TRADEMARKS.md](TRADEMARKS.md).
+Content in this repository is licensed under [CC BY-NC-ND 4.0](LICENSE) and provided as is.<br>
+Productside names, logos, and brand features are not licensed for general reuse — see [TRADEMARKS.md](TRADEMARKS.md).<br>
+For licensing, privacy, and terms, see the [legal and policy index](https://github.com/Productside/.github/blob/main/LEGAL.md).<br>
+Clients and named participants: your signed agreement governs your rights, not this license.
 
 </div>
